@@ -1,7 +1,7 @@
 # Automation_Project
-Course Assignment
+## Course Assignment
 
-Script v0.1
+### Script v0.1
 Once the virtual machine (VM) is set up, the next steps encompasses writing a script to configure the Virtual Machine for hosting a web server and later automating some maintainance tasks. Let's take a look at each of these sub tasks one at a time. 
 
  
@@ -16,7 +16,7 @@ Archiving Logs: Daily requests to web servers generate lots of access logs. Thes
 
 All this becomes a weekly/daily activity. These tasks can take a long time if done manually again and again. You have been assigned to write an automation bash script named ‘automation. sh’ to automate all these workflows.
 
-Script v0.2
+### Script v0.2
 There are two significant areas of improvement in our previous script.
  
 No bookkeeping of archived files 
