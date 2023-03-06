@@ -16,7 +16,8 @@ Archiving Logs: Daily requests to web servers generate lots of access logs. Thes
 
 All this becomes a weekly/daily activity. These tasks can take a long time if done manually again and again. You have been assigned to write an automation bash script named ‘automation. sh’ to automate all these workflows.
 
-### Script v0.2
+### 
+Script v0.2
 There are two significant areas of improvement in our previous script.
  
 No bookkeeping of archived files 
